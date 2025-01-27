@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Gayatri Deshpande 👋  
 
-<!--
-**GayatriDeshpandeStatistician/GayatriDeshpandeStatistician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analytics enthusiast with an MSc in Statistics, proficient in SAS programming and passionate about using data to drive impactful decisions. My career goal is to become a skilled statistician, contributing to meaningful research and analysis.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills and Tools  
+- **Languages**: SAS (Base SAS, Advanced SAS, SAS Macros), Python (Pandas, NumPy, Matplotlib), SQL  
+- **Tools**: Excel, Power BI
+- **Focus Areas**: Statistical Modeling, Data Analysis, Machine Learning, Data Visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 What I'm Currently Learning  
+I'm expanding my expertise in:  
+Building predictive models  
+- Creating interactive dashboards using Power BI  
+- Advanced Excel techniques for data analysis  
+- Data visualization to communicate insights effectively  
+
+## 🚀 Future Goals  
+I'm working towards mastering advanced statistical methodologies and applying them in industries like healthcare, finance, and market research.  
